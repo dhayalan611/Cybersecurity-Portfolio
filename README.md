@@ -16,8 +16,6 @@ A scenario-based security audit from the Google Cybersecurity Certificate progra
 - PCI DSS and GDPR compliance considerations
 - Security recommendations and remediation planning
 
-[View Project](./01-Botium-Toys-Security-Audit/)
-
 ## Skills in Progress
 
 - Security controls assessment
